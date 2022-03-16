@@ -1,6 +1,4 @@
 # Project_BCA
-This projec
-![1](https://user-images.githubusercontent.com/55879201/158642392-2d05c3d6-5edc-4802-a9fe-9cb710bacf34.PNG)
 ![2](https://user-images.githubusercontent.com/55879201/158642880-3c5e8711-6455-49cf-9f7c-9485cf81398f.PNG)
 ![3](https://user-images.githubusercontent.com/55879201/158642887-a91377c0-31cc-4723-86b5-f2bfd9f2ba11.PNG)
 ![4](https://user-images.githubusercontent.com/55879201/158642890-d963ff46-9fcc-424b-a3cc-ce6bd2abecd1.PNG)
